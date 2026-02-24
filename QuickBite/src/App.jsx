@@ -1,11 +1,13 @@
 
+import CartItem from "./components/CartItem"
+
 function App() {
   
 
   return (
     <>
-    
-      // we will write our code here
+      <CartItem />
+      
 
     </>
   )
